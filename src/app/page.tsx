@@ -6,7 +6,9 @@ export default function Home() {
   return (
 
     <main className="no-scrollbar">
-      <div></div>
+      <div>
+      
+      </div>
       <Hero/>
     </main>
     
